@@ -30,18 +30,24 @@ With 3+ years of professional experience in **Software Quality Assurance**, I do
 ### 📈 My Tech Pulse
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoor-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Hooria's Stats" />
-</p>
-
-<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hoor-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hooria's Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoor-code&theme=tokyonight&hide_border=true" alt="Hooria's Streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoor-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
----
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hoor-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>### 📈 My Tech Pulse
 
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hoor-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hooria's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoor-code&theme=tokyonight&hide_border=true" alt="Hooria's Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hoor-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
 ### 📁 Handpicked Projects
 | Project | Stack | Feature |
 | :--- | :--- | :--- |
