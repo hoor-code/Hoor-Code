@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- ✨ FAST APPEARING TEXT (STAYS ON SCREEN) ✨ -->
-<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=45&duration=1000&pause=1000000&color=61DAFB&center=true&vCenter=true&width=600&lines=⚡+Hi,+I'm+Hooria+Buksh+⚡" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=40&duration=1000&pause=1000000&color=61DAFB&center=true&vCenter=true&width=600&lines=⚡+Hi,+I'm+Hooria+Buksh+⚡" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=40&duration=1000&pause=1000000&color=61DAFB&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+|+QA+Automation+Enthusiast" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Building_Bulletproof_Apps-0A66C2?style=flat-square" />
@@ -19,20 +21,26 @@ With over 3 years of professional experience across **Development** and **QA Aut
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,tailwind,html,css,postgres,cypress,postman,java,aws,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,tailwind,html,css,postgres,cypress,postman,aws,git&theme=dark" />
   </a>
 </p>
 
 ---
-
 ### 📈 My Tech Pulse
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoor-code&show_icons=true&theme=transparent&title_color=61DAFB&text_color=ffffff&icon_color=61DAFB&hide_border=true&count_private=true" alt="Hooria's Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoor-code&theme=transparent&stroke=61DAFB&fire=61DAFB&ring=61DAFB&hide_border=true" alt="Hooria's Streak" />
-</p>
-
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hoor-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hooria's Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoor-code&theme=tokyonight&hide_border=true" alt="Hooria's Streak" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hoor-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 ---
 
 ### 📁 Handpicked Projects
