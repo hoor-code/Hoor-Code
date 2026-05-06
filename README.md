@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ✨ PRETTY ANIMATED TYPING TEXT ✨ -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=45&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=⚡+Hi,+I'm+Hooria+Buksh+⚡;Full-Stack+Developer;QA+Automation+Engineer;NED+University+Graduate" alt="Typing SVG" />
+<!-- ✨ FAST APPEARING TEXT (STAYS ON SCREEN) ✨ -->
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=45&duration=1000&pause=1000000&color=61DAFB&center=true&vCenter=true&width=600&lines=⚡+Hi,+I'm+Hooria+Buksh+⚡" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Building_Bulletproof_Apps-0A66C2?style=flat-square" />
