@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- ✨ PRETTY ANIMATED FLOATING NAME ✨ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=600&lines=⚡+Hi,+I'm+Hooria+Buksh+⚡;Full-Stack+Developer;QA+Automation+Engineer;Building+Bulletproof+Apps" alt="Typing SVG" />
+<!-- ✨ PRETTY ANIMATED TYPING TEXT ✨ -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=45&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=⚡+Hi,+I'm+Hooria+Buksh+⚡;Full-Stack+Developer;QA+Automation+Engineer;NED+University+Graduate" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-NED%20University%20Graduate-blue?style=flat-square&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Building_Bulletproof_Apps-0A66C2?style=flat-square" />
 </p>
 
 ---
@@ -27,7 +27,6 @@ With over 3 years of professional experience across **Development** and **QA Aut
 
 ### 📈 My Tech Pulse
 
-<!-- 🌌 SPARKLE STATS (Transparent Backgrounds) 🌌 -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hoor-code&show_icons=true&theme=transparent&title_color=61DAFB&text_color=ffffff&icon_color=61DAFB&hide_border=true&count_private=true" alt="Hooria's Stats" />
   <br/>
