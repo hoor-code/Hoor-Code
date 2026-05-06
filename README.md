@@ -27,11 +27,14 @@ With 3+ years of professional experience in **Software Quality Assurance**, I do
 <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img 
 
 ---
+### 📈 My Tech Pulse
 
-### 📈 Visual Metrics
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hoor-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hooria's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoor-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoor-code&theme=tokyonight&hide_border=true" alt="Hooria's Streak" />
 </p>
 
 ---
