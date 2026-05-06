@@ -1,6 +1,8 @@
 <div align="center">
 
-# ⚡ Hi, I'm Hooria Buksh ⚡
+<!-- ✨ DYNAMIC TWINKLING HEADER ✨ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&text=Hooria%20Buksh&animation=twinkling&fontSize=70" />
+
 **Full-Stack Developer | QA Automation Engineer | NED University Graduate**
 
 [![](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hooria-buksh/)
@@ -39,6 +41,9 @@ With over 3 years of professional experience across **Development** and **QA Aut
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hoor-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
+<!-- 🐍 DYNAMIC CONTRIBUTION SNAKE 🐍 -->
+<img src="https://raw.githubusercontent.com/hoor-code/hoor-code/output/github-contribution-grid-snake.svg" alt="snake" />
 
 ---
 
