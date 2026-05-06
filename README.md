@@ -29,19 +29,17 @@ With over 3 years of professional experience across **Development** and **QA Aut
 
 ---
 
-<div align="center">
-
 ### 📈 My Tech Pulse
 
-<img src="https://github-readme-stats.vercel.app/api?username=hoor-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Hooria's Stats" />
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hoor-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hooria's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoor-code&theme=tokyonight&hide_border=true" alt="Hooria's Streak" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hoor-code&theme=tokyonight&hide_border=true" alt="Hooria's Streak" />
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hoor-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoor-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
 ---
 
 ### 📁 Handpicked Projects
