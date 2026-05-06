@@ -29,8 +29,10 @@ With 3+ years of professional experience in **Software Quality Assurance**, I do
 ---
 
 ### 📈 Visual Metrics
-<img src="https://github-readme-stats.vercel.app/api?username=Hoor-Code&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Hooria's Stats" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoor-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="300" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hoor-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hooria's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoor-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
